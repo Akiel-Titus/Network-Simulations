@@ -16,6 +16,6 @@
 
 ## Troubleshooting Log:
 
-**Spanning Tree: Resolved Native VLAN mismatches that were causing port blocking.
-**Stateful Firewall: Configured ICMP inspection on the ASA to allow return traffic from the ISP.
-**NAT: Implemented dynamic NAT to map private department subnets to a single public interface.
+* Spanning Tree: Resolved Native VLAN mismatches that were causing port blocking.
+* Stateful Firewall: Configured ICMP inspection on the ASA to allow return traffic from the ISP.
+* NAT: Implemented dynamic NAT to map private department subnets to a single public interface.
