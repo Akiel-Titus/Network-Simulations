@@ -1,7 +1,7 @@
 # Enterprise Network Simulation
 
 ## 🌐 Topology Overview
-![Network Topology](Secure-Multi-Department-Enterprise-Edge.png)
+![Network Topology](Secure-Multi-Department-Enterprise-Edge2.png)
 
 ## 🛠️ Technologies Used
 * **Platform:** Cisco Packet Tracer
