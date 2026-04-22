@@ -13,3 +13,9 @@
 * Configured **ASA Firewall** for stateful packet inspection.
 * Implemented **NAT** to provide internet access to private subnets.
 * Resolved Spanning Tree **Native VLAN mismatches**.
+
+## Troubleshooting Log:
+
+**Spanning Tree: Resolved Native VLAN mismatches that were causing port blocking.
+**Stateful Firewall: Configured ICMP inspection on the ASA to allow return traffic from the ISP.
+**NAT: Implemented dynamic NAT to map private department subnets to a single public interface.
