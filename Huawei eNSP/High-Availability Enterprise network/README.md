@@ -2,7 +2,7 @@
 
 ## 🌐 Topology Overview
 
-[![Network Topology](High-Availability Enterprise network.png)](display ospf peer brief.png)](display vrrp brief.png)
+[![Network Topology](High-Availability-Enterprise-network.png)](display-ospf-peer-brief.png)](display-vrrp-brief.png)
 
 ## 🛠️ Technologies Used
 
