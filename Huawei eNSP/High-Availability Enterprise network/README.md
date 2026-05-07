@@ -2,9 +2,9 @@
 
 ## 🌐 Topology Overview
 
-[![Network Topology](High-Availability-Enterprise-network.png)
-[![OSPF Peer Brief Status](display-ospf-peer-brief.png)
-[![VRRP Master Backup Brief](display-vrrp-brief.png)
+![Network Topology](High-Availability-Enterprise-network.png)
+![OSPF Peer Brief Status](display-ospf-peer-brief.png)
+![VRRP Master Backup Brief](display-vrrp-brief.png)
 
 ## 🛠️ Technologies Used
 
